@@ -3,6 +3,10 @@ A professionally curated list of resources (papers, data, etc.) on **AI for Neur
 
 We will continuously update this list with the latest resources. Should you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
 
+## Survey Paper
+[A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis](./)
+
+By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
 
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
