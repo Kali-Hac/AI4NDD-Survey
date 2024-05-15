@@ -1,5 +1,5 @@
 # AI for Gait-Based Neurodegenerative Disease Diagnosis
-A professionally curated list of resources (papers, data, etc.) on **AI for Neurodegenerative Disease Diagnoses Based on Human Gait**, which comprehensively and systematically summarize the recent advances of this filed of research.
+A professionally curated list of resources (papers, data, etc.) on **AI for Neurodegenerative Disease (NDs) Diagnoses Based on Human Gait**, which comprehensively and systematically summarize the recent advances of this filed of research.
 
 We will continuously update this list with the latest resources. Should you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
 
@@ -7,7 +7,7 @@ We will continuously update this list with the latest resources. Should you find
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
 - [**Framework Overview**](#Framework-Overview)
-- [**Overview of Worldwide Effects (No. of Patients and Studies)**](#Overview-of-Worldwide-Effects)
+- [**Overview of Worldwide Effects of NDs (No. of Patients and Studies)**](#Overview-of-Worldwide-Effects)
 - [**Overview of 164 Included Studies (AI Types, NDs Types, Sample Sizes, Gait Data Types, etc.)**](#Overview-of-All-Included-Studies)
 - [**Studies by Different Neurodegenerative Diseases**](#Studies-by-Different-Neurodegenerative-Disease)
   - [**Parkinson's Disease (PD) (Papers with Quality Scores larger than 0.6)**](#Parkinsons-Disease-PD)
