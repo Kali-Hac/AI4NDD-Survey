@@ -3,8 +3,8 @@ A professionally curated list of resources (papers, data, etc.) on **AI for Neur
 
 We will continuously update this list with the latest resources. Should you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
 
-## Taxonomy of this work
-...
+## Overview of AI for Gait-Based Neurodegenerative Disease Diagnosis
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/overview.png)
 
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
