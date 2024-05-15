@@ -10,7 +10,7 @@ We will continuously update this list with the latest resources. Should you find
 <!-- vscode-markdown-toc -->
 - [**List of All Included Papers (164 Studies)**](#All-Included-Papers)
 - [**Studies by Different Neurodegenerative Disease**](#Studies-by-Different-Neurodegenerative-Disease)
-  - [**Parkinson's Disease (PD) (Only S_{Q} > 0.6)**](#Parkinsons-Disease-PD)
+  - [**Parkinson's Disease (PD) (Papers with Quality Scores larger than 0.6)**](#Parkinsons-Disease-PD)
     - [**Studies by Different AI Model Types in PD Diagnosis**](#Studies-by-Different-AI-Model-Types-in-PD-Diagnosis)
       - [**Conventional Machine Learning Models (C-ML)**](#Conventional-Machine-Learning-Models-C-ML)
       - [**Conventional Deep Learning Models (C-DL)**](#Conventional-Deep-Learning-Models-C-DL)
@@ -21,7 +21,7 @@ We will continuously update this list with the latest resources. Should you find
   - [**Amyotrophic Lateral Sclerosis (ALS)**](#Amyotrophic-Lateral-Sclerosis (ALS))
   - [**Combinatorial Diagnoses of Different Diseases**](#Combinatorial-Diagnoses-of-Different-Diseases)
 
-- [**Studies by Different Years (Only Publicly-Available Papers with Links)**](#Studies-by-Different-Years)
+- [**Studies by Different Years**](#Studies-by-Different-Years)
 	- [**2023**](#2023)
 	- [**2022**](#2022)
 	- [**2021**](#2021)
