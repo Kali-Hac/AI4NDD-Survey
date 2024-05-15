@@ -67,7 +67,7 @@ We will continuously update this list with the latest resources. Should you find
  (_Measurement, 2021_)
 - [Design and implementation of ML model for early diagnosis of Parkinson’s disease using gait data analysis in IoT environment](https://d1wqtxts1xzle7.cloudfront.net/92913632/Paper_69-Design_and_Implementation_of_ML_Model-libre.pdf?1666542309=&response-content-disposition=inline%3B+filename%3DDesign_and_Implementation_of_ML_Model_fo.pdf&Expires=1706066137&Signature=ewWcb-G8T~nYVriWHAYSl6ZRhKqhRh2GijGVCYY~GkT6SrLD5oVBlajmviCcurQoBJvAQt5zJ0myvlKDSDtu6b6GM7cR~5QpPLJ04B~DMI8Cpr15JEED91Twf3tzKqFYo7c0Dk4DuqBQ9uFSVgQr7CtrHei1E7ZqB4tD0t3t6h2KPPmTVC16AxtikByHZiI4nqIGlejELnbmmYURPDf2GvLgqvUlTvkAbd-hBSdNgQeRGb2SWxkeV0ranpNbgoahRJCduXAp~mAMaw0C1nvjGADKiY4aKTahOH0Y1fyfnsB7kJaflQWTnf38uDf7nEd2b2xLKHj1xhoutYi1X8JeCw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) (_International Journal of Advanced Computer Science and Applications, 2022_)
 - [Gait classification for early detection and severity rating of Parkinson’s disease based on hybrid signal processing and machine learning methods](https://link.springer.com/article/10.1007/s11571-022-09925-9) (_Cognitive Neurodynamics, 2022_)
-- 
+
 ###### Conventional Deep Learning Models (C-DL)
 - [Parkinson's disease classification using wavelet transform based feature extraction of gait data](https://ieeexplore.ieee.org/abstract/document/8074230) (_2017 International Conference on Circuit Power and Computing Technologies (ICCPCT), IEEE, 2017_)  
 - [Parkinson’s disease monitoring from gait analysis via foot-worn sensors](https://www.sciencedirect.com/science/article/abs/pii/S0208521617304321) (_Biocybernetics and Biomedical Engineering, 2018_)
