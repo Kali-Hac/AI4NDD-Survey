@@ -41,7 +41,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
   - [**2012**](#2012)
 
 
-- [**All Included Papers (164 Papers)**](#All-Included-Papers)
+- [**List of All Included Papers (164 Papers)**](#List-of-All-Included-Papers)
 - [**Taxonomy of Gait Data**](#Taxonomy-of-Gait-Data)
 - [**Research Vision on 3D Skeleton based NDs Diagnosis**](#Research-Vision-on-3D-Skeleton-based-NDs-Diagnosis)
 <!-- vscode-markdown-toc-config
@@ -296,7 +296,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
 
 
 
-### **All Included Papers**
+### **List of All Included Papers**
 | No. | Title                                                                                                                                                                                         | Disease                                    | Year | Journal /Conference                                                                                                                                                                                                                                  | Organization                                                                   | DOI                                                    |
 |:---:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------|
 |  1  | A genetic-ELM neural network computational method for diagnosis of the Parkinson disease gait dataset                                                                                         | PD                                         | 2020 | INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS                                                                                                                                                                                                        | King Saud University                                                           | 10.1080/00207160.2019.1607842                          |
