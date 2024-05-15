@@ -54,7 +54,7 @@ We will continuously update this list with the latest resources. Should you find
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/overview.png)
 
 
-## Statistics of Included Studies
+## Overview of All Included Studies
 
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/AI_NDs_Sample_Data.png)
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/Sensor_Countries.png)
