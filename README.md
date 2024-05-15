@@ -6,10 +6,10 @@ We will continuously update this list with the latest resources. Should you find
 
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
-- [**Pipeline Overview**](#Pipeline-Overview)
-- [**Overview of Worldwide Effects**](#Overview-of-Worldwide-Effects)
-- [**Statistics of Included Studies**](#Statistics-of-Included-Studies)
-- [**Studies by Different Neurodegenerative Disease**](#Studies-by-Different-Neurodegenerative-Disease)
+- [**Framework Overview**](#Framework-Overview)
+- [**Overview of Worldwide Effects (Number of Patients and Studies)**](#Overview-of-Worldwide-Effects)
+- [**Overview of 164 Included Studies (AI Types, NDs Types, Sample Sizes, Gait Data Types, etc.)**](#Overview-of-All-Included-Studies)
+- [**Studies by Different Neurodegenerative Diseases**](#Studies-by-Different-Neurodegenerative-Disease)
   - [**Parkinson's Disease (PD) (Papers with Quality Scores larger than 0.6)**](#Parkinsons-Disease-PD)
     - [**Studies by Different AI Model Types in PD Diagnosis**](#Studies-by-Different-AI-Model-Types-in-PD-Diagnosis)
       - [**Conventional Machine Learning Models (C-ML)**](#Conventional-Machine-Learning-Models-C-ML)
@@ -36,9 +36,9 @@ We will continuously update this list with the latest resources. Should you find
   - [**2012**](#2012)
 	- [**Before 2012**](#before-2012)
 
-- [**Statistics of Included Studies**](#Statistics-of-Included-Studies)
+- [**Overview of 164 Included Studies**](#Overview-of-All-Included-Studies)
 - [**Taxonomy of Gait Data**](#Taxonomy-of-Gait-Data)
-- [**Research Vision**](#Research-Vision)
+- [**Research Vision (3D Skeleton based NDs Diagnosis)**](#Research-Vision)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -50,7 +50,7 @@ We will continuously update this list with the latest resources. Should you find
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/World_effects.png)
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/published_year.png)
 
-## Pipeline Overview
+## Framework Overview
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/overview.png)
 
 
