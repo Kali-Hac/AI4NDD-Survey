@@ -19,7 +19,7 @@ We will continuously update this list with the latest resources. Should you find
   - [**Huntington’s Disease (HD)**](#Huntingtons-Disease-HD)
   - [**Multiple Sclerosis (MS)**](#Multiple-Sclerosis-MS)
   - [**Alzheimer’s Disease (AD)**](#Alzheimers-Disease-AD)
-  - [**Amyotrophic Lateral Sclerosis (ALS)**](#Amyotrophic-Lateral-Sclerosis (ALS))
+  - [**Amyotrophic Lateral Sclerosis (ALS)**](#Amyotrophic-Lateral-Sclerosis-ALS)
   - [**Combinatorial Diagnoses of Different Diseases**](#Combinatorial-Diagnoses-of-Different-Diseases)
 
 - [**Studies by Different Years**](#Studies-by-Different-Years)
