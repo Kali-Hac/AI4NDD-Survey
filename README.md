@@ -1,5 +1,5 @@
-# AI for Gait-Based Neurodegenerative Disease Diagnosis
-A professionally curated list of resources (papers, data, etc.) on **AI for Neurodegenerative Disease (NDs) Diagnoses Based on Human Gait**, which comprehensively and systematically summarize the recent advances of this filed of research.
+# AI for Gait-Based Neurodegenerative Disease Diagnosis (AI4NDD)
+A professionally curated list of resources (papers, data, etc.) on **AI4NDD**, which comprehensively and systematically summarize the recent advances of this filed of research.
 
 We will continuously update this list with the latest resources. Should you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
 
