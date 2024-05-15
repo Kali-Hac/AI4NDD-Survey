@@ -36,7 +36,7 @@ We will continuously update this list with the latest resources. Should you find
   - [**2012**](#2012)
 	- [**Before 2012**](#before-2012)
 
-- [**Overview of 164 Included Studies**](#Overview-of-All-Included-Studies)
+- [**All Included Papers**](#All-Included-Papers)
 - [**Taxonomy of Gait Data**](#Taxonomy-of-Gait-Data)
 - [**Research Vision (3D Skeleton based NDs Diagnosis)**](#Research-Vision)
 <!-- vscode-markdown-toc-config
