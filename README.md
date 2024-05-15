@@ -6,9 +6,9 @@ We will continuously update this list with the latest resources. Should you find
 
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
-- [**Framework Overview**](#Framework-Overview)
 - [**Overview of Worldwide Effects of NDs (No. of Patients)**](#Overview-of-Worldwide-Effects)
 - [**Overview of Worldwide Research (No. of Studies)**](#Overview-of-Worldwide-Studies)
+- [**Framework Overview**](#Framework-Overview)
 - [**Overview of 164 Included Studies (AI Types, NDs Types, Sample Sizes, Gait Data Types, etc.)**](#Overview-of-All-Included-Studies)
 - [**Studies by Different Neurodegenerative Diseases**](#Studies-by-Different-Neurodegenerative-Disease)
   - [**Parkinson's Disease (PD) (Papers with Quality Scores larger than 0.6)**](#Parkinsons-Disease-PD)
