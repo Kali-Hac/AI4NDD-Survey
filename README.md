@@ -37,9 +37,9 @@ We will continuously update this list with the latest resources. Should you find
   - [**2012**](#2012)
 
 
-- [**All Included Papers**](#All-Included-Papers)
+- [**All Included Papers (164 Papers)**](#All-Included-Papers)
 - [**Taxonomy of Gait Data**](#Taxonomy-of-Gait-Data)
-- [**Research Vision (3D Skeleton based NDs Diagnosis)**](#Research-Vision)
+- [**Research Vision on 3D Skeleton based NDs Diagnosis**](#Research-Vision-on-3D-Skeleton-based-NDs-Diagnosis)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -467,5 +467,5 @@ We will continuously update this list with the latest resources. Should you find
 ## Taxonomy of Gait Data
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/gait_data_taxonomy.png)
 
-## Research Vision
+## Research Vision on 3D Skeleton based NDs Diagnosis
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/research_vision.png)
