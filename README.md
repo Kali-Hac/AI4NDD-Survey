@@ -7,7 +7,8 @@ We will continuously update this list with the latest resources. Should you find
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
 - [**Framework Overview**](#Framework-Overview)
-- [**Overview of Worldwide Effects of NDs (No. of Patients and Studies)**](#Overview-of-Worldwide-Effects)
+- [**Overview of Worldwide Effects of NDs (No. of Patients)**](#Overview-of-Worldwide-Effects)
+- [**Overview of Worldwide Research (No. of Studies)**](#Overview-of-Worldwide-Studies)
 - [**Overview of 164 Included Studies (AI Types, NDs Types, Sample Sizes, Gait Data Types, etc.)**](#Overview-of-All-Included-Studies)
 - [**Studies by Different Neurodegenerative Diseases**](#Studies-by-Different-Neurodegenerative-Disease)
   - [**Parkinson's Disease (PD) (Papers with Quality Scores larger than 0.6)**](#Parkinsons-Disease-PD)
@@ -34,7 +35,7 @@ We will continuously update this list with the latest resources. Should you find
 	- [**2014**](#2014)
   - [**2013**](#2013)
   - [**2012**](#2012)
-	- [**Before 2012**](#before-2012)
+
 
 - [**All Included Papers**](#All-Included-Papers)
 - [**Taxonomy of Gait Data**](#Taxonomy-of-Gait-Data)
@@ -48,6 +49,8 @@ We will continuously update this list with the latest resources. Should you find
 
 ## Overview of Worldwide Effects
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/World_effects.png)
+
+## Overview of Worldwide Studies
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/published_year.png)
 
 ## Framework Overview
