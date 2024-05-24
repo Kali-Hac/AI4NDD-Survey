@@ -473,3 +473,17 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
 
 ## Research Vision on 3D Skeleton based NDs Diagnosis
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/research_vision.png)
+
+
+## Citation
+If you found this repository useful, please consider citing:
+```bash
+@article{rao2024survey,
+      title={A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis}, 
+      author={Rao, Haocong and Zeng, Minlin and Zhao, Xuejiao and Miao, Chunyan},
+      year={2024},
+      journal={arXiv preprint arXiv:2405.13082},
+}
+
+```
+
