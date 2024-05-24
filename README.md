@@ -4,7 +4,7 @@ A professionally curated list of resources (papers, data, etc.) on **AI4NDD**, w
 We will continuously update this list with the latest resources. Should you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
 
 ## Survey Paper
-[A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis](https://arxiv.org/pdf/2405.13082)
+[A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis](https://arxiv.org/pdf/2405.13082) ([Arxiv](https://arxiv.org/abs/2405.13082))
 
 By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
 
