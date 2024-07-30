@@ -15,7 +15,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
 - [**Framework Overview**](#Framework-Overview)
 - [**Overview of 164 Included Studies (AI Types, NDs Types, Sample Sizes, Gait Data Types, etc.)**](#Overview-of-All-Included-Studies)
 - [**Statistics of Different Types of NDs Studies and AI Models**](#Statistics-of-Different-Types-of-NDs-Studies-and-AI-Models)
-- [**Key Information Summary of Different Gait-Based NDs Studies**](#Key-Summary-of-Different-Gait-Based-Neurodegenerative-Diseases-(NDs)-Studies)
+- [**Key Information Summary of Different Gait-Based NDs Studies**](#Key-Summary-of-Different-Gait-Based-Neurodegenerative-Diseases-NDs-Studies)
   - [**Key Information Summary of Gait-Based PD Studies**](#Key-Summary-of-Gait-Based-PD-Studies)
   - [**Key Information Summary of Gait-Based AD Studies)**](#Key-Summary-of-Gait-Based-AD-Studies)
   - [**Key Information Summary of Gait-Based ALS Studies)**](#Key-Summary-of-Gait-Based-ALS-Studies)
