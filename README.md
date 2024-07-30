@@ -21,7 +21,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
   - [**Key Information Summary of Gait-Based ALS Studies)**](#Key-Summary-of-Gait-Based-ALS-Studies)
   - [**Key Information Summary of Gait-Based HD Studies)**](#Key-Summary-of-Gait-Based-HD-Studies)
   - [**Key Information Summary of Gait-Based MS Studies**](#Key-Summary-of-Gait-Based-MS-Studies)
-  - [**Key Information Summary of Gait-Based Combinatorial Studies (PD, ALS, HD)**](#Key-Summary-of-Combinatorial-Studies-(PD,-ALS,-HD))
+  - [**Key Information Summary of Gait-Based Combinatorial Studies (PD, ALS, HD)**](#Key-Summary-of-Combinatorial-Studies-PD-ALS-HD)
 - [**Studies by Different Neurodegenerative Diseases**](#Studies-by-Different-Neurodegenerative-Disease)
   - [**Parkinson's Disease (PD) (Papers with Quality Scores larger than 0.6)**](#Parkinsons-Disease-PD)
     - [**Studies by Different AI Model Types in PD Diagnosis**](#Studies-by-Different-AI-Model-Types-in-PD-Diagnosis)
