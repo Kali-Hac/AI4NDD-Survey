@@ -92,8 +92,8 @@ ALS, and HD. S_{Q} >0.6 indicates the number of high-quality studies.
 | **S_{Q}>0.6**                   |    23    |    29    |    17    |     —     |       69      |
 
 
-### **Key Summary of Different Gait-Based Neurodegenerative Diseases (NDs) Studies**
-## Key Summary of Gait-Based PD Studies
+## **Key Summary of Different Gait-Based Neurodegenerative Diseases (NDs) Studies**
+### Key Summary of Gait-Based PD Studies
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD-1.jpg)
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD-2.jpg)
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD-3.jpg)
