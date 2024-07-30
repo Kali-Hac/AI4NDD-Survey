@@ -94,10 +94,10 @@ ALS, and HD. S_{Q} >0.6 indicates the number of high-quality studies.
 
 ### **Key Summary of Different Gait-Based Neurodegenerative Diseases (NDs) Studies**
 ## Key Summary of Gait-Based PD Studies
-![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD_1.jpg)
-![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD_2.jpg)
-![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD_3.jpg)
-![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD_4.jpg)
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD-1.jpg)
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD-2.jpg)
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD-3.jpg)
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD-4.jpg)
 
 ### Key Summary of Gait-Based AD Studies
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/AD.jpg)
