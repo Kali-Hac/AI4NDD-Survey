@@ -67,7 +67,43 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/Sensor_Countries.png)
 
 
-### **Studies by Different Neurodegenerative Disease**
+## Statistics of Different Types of NDs Studies and AI Models
+```bash
+Number of studies related to different NDs (PD, HD, MS, AD, ALS) and different model types (C-ML, C-DL, A-DL). “Combinatorial” denotes studies that simultaneously contain diagnosis of multiple NDs including PD,
+ALS, and HD. S_{Q} >0.6 indicates the number of high-quality studies.
+```
+| **Type**                        | **C-ML** | **C-DL** | **A-DL** | **Total** | **S_{Q}>0.6** |
+|---------------------------------|:--------:|:--------:|:--------:|:---------:|:-------------:|
+| **PD**                          |    77    |     34   |    13    |    124    |       56      |
+| **Combinatorial (PD, ALS, HD)** |    11    |     6    |     2    |     19    |       8       |
+| **HD**                          |     6    |     1    |     0    |     7     |       1       |
+| **MS**                          |     4    |     1    |     1    |     6     |       2       |
+| **AD**                          |     3    |     1    |     1    |     5     |       2       |
+| **ALS**                         |     3    |     0    |     0    |     3     |       0       |
+| **Total**                       |    104   |    43    |    17    |    164    |       —       |
+| **S_{Q}>0.6**                   |    23    |    29    |    17    |     —     |       69      |
+
+## Key Summary of Gait-Based PD Studies
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/PD.jpg)
+
+## Key Summary of Gait-Based AD Studies
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/AD.jpg)
+
+## Key Summary of Gait-Based ALS Studies
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/ALS.jpg)
+
+## Key Summary of Gait-Based HD Studies
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/HD.jpg)
+
+## Key Summary of Gait-Based MS Studies
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/MS.jpg)
+
+## Key Summary of Combinatorial Studies (PD, ALS, HD)
+![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/Comb.jpg)
+
+
+
+### **Studies by Different Neurodegenerative Diseases**
 #### **Parkinson's Disease (PD)**
 ##### **Studies by Different AI Model Types in PD Diagnosis**
 ###### **Conventional Machine Learning Models (C-ML)**
